@@ -1,0 +1,9 @@
+Word	Frequency
+Hai	|	2
+how	|	1
+are	|	1
+you.	|	1
+areÂ	|	1
+youÂ	|	1
+busyÂ	|	1
+today.	|	1
